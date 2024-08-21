@@ -1,6 +1,6 @@
 # Semantic Clustering of Italian Political News on Facebook
 
-This repository contains the code and data supporting the working paper "[Semantic Clustering of Italian Political News on Facebook: Comparing text-embedding-3-large and UmBERTo Embeddings using HDBSCAN and K-means](https://osf.io/preprints/osf/9qyns)".
+This repository contains the code and data supporting the working paper "[Semantic Clustering of Italian Political News on Facebook: Comparing text-embedding-3-large and UmBERTo Embeddings using HDBSCAN and K-means](https://doi.org/10.31219/osf.io/2j9ed)".
 
 ## Overview
 
